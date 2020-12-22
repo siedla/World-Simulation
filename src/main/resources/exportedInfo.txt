@@ -1,0 +1,7 @@
+Day number: 87
+Number of animals on the map: 10
+Number of grass on the map: 97
+Dominant gene: 6
+Average animals energy: 30
+Average life length: 32
+Average number of children: 1.1
